@@ -1,6 +1,6 @@
 CC = g++
 TARGET = a.out
-OBJS = 12_class_inheritance.o
+OBJS = 09_vector.o
 
 CXXFLAGS = -g -std=c++17 -Wall
 LDFLAGS = -lc
